@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+D:\food_delivery_system_ms\.metadata\.plugins\org.eclipse.jdt.core
+2706790346.index
+985749750.index
+1230850708.index
+457993180.index
+3231380142.index
+2725511845.index
+31586738.index
+1865797976.index
+895377087.index
+3501421780.index
+2749805555.index
