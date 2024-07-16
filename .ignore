@@ -2,3 +2,4 @@
 Servers/
 user_service/target/
 user_service/build/
+.metadata/
