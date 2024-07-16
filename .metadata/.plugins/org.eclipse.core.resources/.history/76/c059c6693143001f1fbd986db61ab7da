@@ -1,7 +1,0 @@
-package com.mce.user.configuration;
-
-import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-
-public class WebInitializer extends AbstractAnnotationConfigDispatcherServletInitializer{
-
-}
